@@ -63,7 +63,7 @@ The dashboard enables users to monitor key business metrics, identify top and bo
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="C:\Users\NGCS\Desktop\PROJECTS\POWERBI PROJECTS\Project 1 global superstore dashboard analysis" alt="Global Superstore Sales Dashboard" width="1000">
+  <img src="dashboard.png" alt="Global Superstore Sales Dashboard" width="1000">
 </p>
 ---
 
