@@ -62,8 +62,9 @@ The dashboard enables users to monitor key business metrics, identify top and bo
 
 ## 📷 Dashboard Preview
 
-dashboard.png
-
+<p align="center">
+  <img src="images/Dashboard.png" alt="Global Superstore Sales Dashboard" width="1000">
+</p>
 ---
 
 ## 📊 Business Insights
