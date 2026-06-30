@@ -62,7 +62,7 @@ The dashboard enables users to monitor key business metrics, identify top and bo
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+dashboard.png
 
 ---
 
@@ -82,7 +82,7 @@ The dashboard enables users to monitor key business metrics, identify top and bo
 ```
 Global-Superstore-Sales-Dashboard/
 │
-├── Dashboard.pbix
+├── Dashboard.png
 ├── Global_Superstore.xlsx
 ├── Dashboard.png
 ├── README.md
